@@ -26,7 +26,5 @@
 <a href="https://www.facebook.com/people/Osama-Shaikh/100008190918407" target="_blank">
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-<a href="https://instagram.com/mazin_shaikh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazin_shaikh" height="30" width="40" />
-</a>
+
 </div>
