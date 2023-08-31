@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M Zain Shaikh </h1>
+<h1 align="center">Hi 👋, I'm M Zain Shaikh</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [WebHR, GTC](https://web.hr/ , https://gotocampus.com/)
