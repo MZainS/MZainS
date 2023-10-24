@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&width=445&lines=Hi+%F0%9F%91%8B%2C+I'm+M+Zain+Shaikh" alt="Typing SVG" /></h1>
-<h3 align="center">A passionate developer from Pakistan </h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [WebHR, GTC](https://web.hr/ , https://gotocampus.com/)
  
