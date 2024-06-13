@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://muhammadzainportfolio.000webhostapp.com/](https://muhammadzainportfolio.000webhostapp.com/)
 
 - 💬 Ask me about **PHP, MySQL, React**
-  
+
 - 📫 How to reach me **zainanwarshaikh45@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
