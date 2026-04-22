@@ -12,7 +12,7 @@
 - 📫 How to reach me **zainanwarshaikh45@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" style="display:flex; justify-content:space-between;">
+<p align="center" style="display:'flex'; justify-content:'space-between';">
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
 <a href="https://codeigniter.com"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40" height="40"/></a>
