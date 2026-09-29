@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&width=445&lines=Hi+%F0%9F%91%8B%2C+I'm+M+Zain+Shaikh" alt="Typing SVG" /></h1>
  
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Backend Developer Animation" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
-
+ 
 <h3 align="center">A passionate developer from Pakistan</h3>
 
 
